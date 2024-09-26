@@ -46,6 +46,6 @@ Si todo salió según lo planeado deberíamos haber generado dinero de la forma 
 # Otras guías
 
 Para ver otra guía de Stardew Valley:
-- https://github.com/acasmor0802/primeroa-pagina/new/main
+- [https://github.com/acasmor0802/primeroa-pagina/new/main](https://github.com/acasmor0802/primeroa-pagina/blob/main/index.dm)
 
 
