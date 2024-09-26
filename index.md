@@ -11,7 +11,7 @@ Según la estación los cultivos son diferentes
 
 En esta primera estación los mejores cultivos serían los siguientes:
  **Coliflor**,**café**,**fresa** y **patata**
- ![Cauliflower.png](https://stardewvalleywiki.com/mediawiki/images/a/aa/Cauliflower.png)![Coffee Bean.png](https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png)![Strawberry.png](https://stardewvalleywiki.com/mediawiki/images/6/6d/Strawberry.png)![Potato.png](https://stardewvalleywiki.com/mediawiki/images/c/c2/Potato.png)
+ ![Cauliflower.png](https://stardewvalleywiki.com/mediawiki/images/a/aa/Cauliflower.png) ![Coffee Bean.png](https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png) ![Strawberry.png](https://stardewvalleywiki.com/mediawiki/images/6/6d/Strawberry.png) ![Potato.png](https://stardewvalleywiki.com/mediawiki/images/c/c2/Potato.png)
 
 ## Verano
 
@@ -23,7 +23,7 @@ La **carambola**
 
 En esta etapa tendremos muchísimo dinero de la estación anterior, así que gastaremos un poco en cultivar:
 **Calabazas** y **grosellas**
-![Pumpkin.png](https://stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png)![Cranberries.png](https://stardewvalleywiki.com/mediawiki/images/6/6e/Cranberries.png)
+![Pumpkin.png](https://stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png) ![Cranberries.png](https://stardewvalleywiki.com/mediawiki/images/6/6e/Cranberries.png)
 
 ## Invierno
 
