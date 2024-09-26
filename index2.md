@@ -20,4 +20,4 @@ El diamante o el jade son esenciales para tener el mejor equipo.
 
 Para ver otra guía de Stardew Valley: 
 
-- [index.dm](https://acasmor0802.github.io/primera-web/)
+- [index](https://acasmor0802.github.io/primera-web/)
