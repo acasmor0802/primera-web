@@ -12,12 +12,14 @@ Según la estación los cultivos son diferentes
 
 En esta primera estación los mejores cultivos serían los siguientes:
  **Coliflor**,**café**,**fresa** y **patata**
+
  ![Cauliflower.png](https://stardewvalleywiki.com/mediawiki/images/a/aa/Cauliflower.png) ![Coffee Bean.png](https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png) ![Strawberry.png](https://stardewvalleywiki.com/mediawiki/images/6/6d/Strawberry.png) ![Potato.png](https://stardewvalleywiki.com/mediawiki/images/c/c2/Potato.png)
 
 ## Verano
 
 Una vez tengamos el suficiente dinero ahorrado de la primavera habrá que gastarlo todo en el mejor cultivo:
 La **carambola**
+
 ![Starfruit.png](https://stardewvalleywiki.com/mediawiki/images/d/db/Starfruit.png)
 
 ## Otoño
