@@ -2,6 +2,7 @@
 
 
    ![Main Logo.png](https://stardewvalleywiki.com/mediawiki/images/6/68/Main_Logo.png)
+  
    Hola, en el día de hoy vamos a ver cuales son los mejores cultivos de Stardew Valley.
 #  Recuerda
 
