@@ -26,17 +26,20 @@ La **carambola**
 
 En esta etapa tendremos muchísimo dinero de la estación anterior, así que gastaremos un poco en cultivar:
 **Calabazas** y **grosellas**
+
 ![Pumpkin.png](https://stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png) ![Cranberries.png](https://stardewvalleywiki.com/mediawiki/images/6/6e/Cranberries.png)
 
 ## Invierno
 
 Esta será con creces la estación más compleja del juego así que para poder sobrevivir con el dinero suficiente más los ahorros que nos queden de verano solo podremos cultivar:
 **Melón de polvo**                
+
 ![Powdermelon.png](https://stardewvalleywiki.com/mediawiki/images/a/aa/Powdermelon.png)
 
 # Año completado
 
 Si todo salió según lo planeado deberíamos haber generado dinero de la forma más optima posible y gracias a ello tendríamos la ventaja de avanzar bastante rápido en la historia.
+
 ![Horse rider.png](https://stardewvalleywiki.com/mediawiki/images/a/af/Horse_rider.png)
 
 
